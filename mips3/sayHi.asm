@@ -1,11 +1,9 @@
 # sayHi.asm
 
      .data
-
 str1: .asciiz "Before function\n"
 str2: .asciiz "After function\n"
 str3: .asciiz "Inside function: Say Hi!\n"
-
       .text
 
 main: 

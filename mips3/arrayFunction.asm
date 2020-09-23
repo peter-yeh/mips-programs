@@ -126,4 +126,4 @@ revArrLoop:
 
 
 revArrEnd:
-	jr 		$ra			                        # return from this function
+        jr      $ra 	                        # return from this function
